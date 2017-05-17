@@ -2536,6 +2536,7 @@ username=juanma
 
 - [`req.body`](http://expressjs.com/en/4x/api.html#req.body) (w/ [_body-parser_](https://www.npmjs.org/package/body-parser))
 - [`req.cookies`](http://expressjs.com/en/4x/api.html#req.cookies) (w/ [_ cookie-parser_](https://www.npmjs.com/package/cookie-parser))
+- [`req.session`](https://github.com/expressjs/session#reqsession) (w/ [_ express-session_](https://github.com/expressjs/session))
 - [`req.hostname`](http://expressjs.com/en/4x/api.html#req.hostname), [`req.ip`](http://expressjs.com/en/4x/api.html#req.ip), [`req.method`](http://expressjs.com/en/4x/api.html#req.method)
 - [`req.params`](http://expressjs.com/en/4x/api.html#req.params) (w/ `/user/:name`)
 - [`req.query`](http://expressjs.com/en/4x/api.html#req.query) (w/ `/search?q=tobi+ferret` )
