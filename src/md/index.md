@@ -3096,14 +3096,14 @@ Do the followig exercises: https://github.com/juanmaguitar/node-exercises/tree/m
 
 ## [Mongoose](http://mongoosejs.com/) 
 
-* [Schema](http://learnmongodbthehardway.com/schema/chapter1/)
-  * [Basics](http://learnmongodbthehardway.com/schema/chapter2/)
+* [Schema](http://learnmongodbthehardway.com/schema/schemabasics/)
   * [Referencing schemas in properties](https://alexanderzeitler.com/articles/mongoose-referencing-schema-in-properties-and-arrays/)
   * [Methods](http://mongoosejs.com/docs/2.7.x/docs/methods-statics.html)
 - [Mongoose Connection best practice](http://theholmesoffice.com/mongoose-connection-best-practice/) | [_code_](https://github.com/simonholmes/mongoose-default-connection)
 - [Node & Mongo w/ Mongoose](https://scotch.io/tutorials/using-mongoosejs-in-node-js-and-mongodb-applications)
   + [`mongoose-express-router`](https://github.com/alexmingoia/mongoose-express-router)
 - Troubleshooting: [[1]](http://stackoverflow.com/questions/10547118/why-does-mongoose-always-add-an-s-to-the-end-of-my-collection-name)
+- Cheatsheets: [[1]](https://github.com/sslover/designing-for-data-personalization/blob/master/week8/mongoose-cheatsheet.md) [[2]](https://gist.github.com/subfuzion/9236165) [[3]](https://gist.github.com/KunalSarkar/1a7967cc0e101604cabab9443ef876b9) [[4]](https://github.com/watert/mongoose-cheatsheet)
 
 !SLIDE mongo
 
